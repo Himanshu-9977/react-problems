@@ -8,6 +8,7 @@ import Six from './problems/Six'
 import Seven from './problems/Seven'
 import Eight from './problems/Eight'
 import Nine from './problems/Nine'
+import Ten from './problems/Ten/Ten'
 
 function App() {
 
@@ -22,7 +23,8 @@ function App() {
       {/* <Six /> */}
       {/* <Seven /> */}
       {/* <Eight /> */}
-      <Nine />
+      {/* <Nine /> */}
+      <Ten />
       </div>
     </>
   )
